@@ -9,3 +9,19 @@ CRUD Operation
 Create, Red, Delete and Update.<br>
 <h1>To Connect express to the data base</h1>
 <p>npm i  mongoose</p>
+
+<h1>MongoDB Query API Uses</h1>
+we can use the MongoDB Query API to perform:
+
+Adhoc queries with mongosh, Compass, VS Code, or a MongoDB driver for the programming language you use.
+Data transformations using aggregation pipelines.
+Document join support to combine data from different collections.
+Graph and geospatial queries.
+Full-text search.
+Indexing to improve MongoDB query performance.
+Time series analysis.
+
+<h1>Create Database using mongosh</h1>
+Connecting the database using mongosh
+CRUD Operation
+Create, Red, Delete and Update.<br>
