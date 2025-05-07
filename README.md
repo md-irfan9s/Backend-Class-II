@@ -15,13 +15,13 @@ how to connect the database so, check it out my repo
 <h1>MongoDB Query API Uses</h1>
 we can use the MongoDB Query API to perform:
 
-Adhoc queries with mongosh, Compass, VS Code, or a MongoDB driver for the programming language you use.
-Data transformations using aggregation pipelines.
-Document join support to combine data from different collections.
-Graph and geospatial queries.
-Full-text search.
-Indexing to improve MongoDB query performance.
-Time series analysis.
+Adhoc queries with mongosh, Compass, VS Code, or a MongoDB driver for the programming language you use.<br>
+Data transformations using aggregation pipelines.<br>
+Document join support to combine data from different collections.<br>
+Graph and geospatial queries.<br>
+Full-text search.<br>
+Indexing to improve MongoDB query performance.<br>
+Time series analysis.<br>
 
 <h1>Create Database using mongosh</h1>
 Connecting the database using mongosh
