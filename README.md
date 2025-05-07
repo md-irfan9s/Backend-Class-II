@@ -10,6 +10,8 @@ Create, Red, Delete and Update.<br>
 <h1>To Connect express to the data base</h1>
 <p>npm i  mongoose</p>
 
+how to connect the database so, check it out my repo
+
 <h1>MongoDB Query API Uses</h1>
 we can use the MongoDB Query API to perform:
 
