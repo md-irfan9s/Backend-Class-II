@@ -33,3 +33,14 @@ app.post('/items', (request, response) => {
 app.listen(port, () => {
     console.log("server started as port 3000")
 })
+
+
+// connect the express to the database
+
+const mongose = require('mongoose')
+mongose.connect('mongodb://localhost:27017/myDatabase', {
+    useNewUrlParser:true,
+    useUnifiedTopology:true
+})
+.then( () => {console.log("connecction successfully")})
+.catch((error) => {console.log("Recieved an error")})
